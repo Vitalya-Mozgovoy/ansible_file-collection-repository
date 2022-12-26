@@ -1,0 +1,4 @@
+collections:
+  - name: https://github.com/Kraktorist/devops-netology.git
+    type: git
+    version: ansible_file
